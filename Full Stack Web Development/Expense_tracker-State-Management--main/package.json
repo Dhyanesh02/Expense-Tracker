@@ -2,6 +2,7 @@
   "name": "expense_tracker",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dhyanesh02.github.io/Expense_tracker",
   "type": "module",
   "scripts": {
     "dev": "vite",
